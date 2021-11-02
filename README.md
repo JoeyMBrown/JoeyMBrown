@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can lick my elbow, oh and really enjoy rock climbing :)
+
+### Tech stack:
+- React.js, Redux, Node, Express, JS, HTML, CSS, SQLite3, PostgreSQL, Python, SQL, Vue.js
