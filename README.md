@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on: Node, React, and JS.
-- 🌱 I’m currently learning to understand: The git flow in a large team setting.
+- 🌱 I’m currently learning to understand: C#, .NET, and ASP.NET!
 - 👯 I’m looking to collaborate on: Full-stack applications that will test my current understanding of React and Node.
 - 🤔 I’m looking for help with: Choosing the best state management to fit a specific applications needs.
 - 💬 Ask me about: My experience at Lambda School!
