@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can lick my elbow, oh and really enjoy rock climbing :)
 
 ### Tech stack:
-- React.js, Redux, Node, Express, JS, HTML, CSS, SQLite3, PostgreSQL, Python, SQL, Vue.js
+- React.js, Redux, Node, Express, JS, HTML, CSS, SQLite3, PostgreSQL, Python, SQL, Vue.js, C#, .NET, IIS, SSMS
