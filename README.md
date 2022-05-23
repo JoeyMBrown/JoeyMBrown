@@ -12,7 +12,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on: Node, React, and JS.
+- 🔭 I’m currently working on: C#, SOAP APIs, and project management.
 - 🌱 I’m currently learning to understand: C#, .NET, and ASP.NET!
 - 👯 I’m looking to collaborate on: Full-stack applications that will test my current understanding of React and Node.
 - 🤔 I’m looking for help with: Choosing the best state management to fit a specific applications needs.
@@ -23,3 +23,6 @@ Here are some ideas to get you started:
 
 ### Tech stack:
 - React.js, Redux, Node, Express, JS, HTML, CSS, SQLite3, PostgreSQL, Python, SQL, Vue.js, C#, .NET, IIS, SSMS
+
+
+Other Github Account: https://github.com/jbrownAMA
