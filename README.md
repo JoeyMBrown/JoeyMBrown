@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 ### Tech stack:
 - React.js, Redux, Node, Express, JS, HTML, CSS, SQLite3, PostgreSQL, Python, SQL, Vue.js, C#, .NET, IIS, SSMS
 
+![Joey's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeyMBrown&show_icons=true&theme=radical&count_private=true)
 
 Other Github Account: https://github.com/jbrownAMA
