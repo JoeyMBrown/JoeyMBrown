@@ -1,7 +1,7 @@
 ### To get Joey up and running:
 1. Brew coffee
 2. Mention React or Node
-3. In the file JoeysBrain.js, change `let brainOn = false;` -> `const brainOn = true;`
+3. In the file JoeysBrain.js, change `let brainOn = false;` -> `let brainOn = true;`
 4. *Insert Mechanical Keyboard Noises*
 
 ### Hi there 👋
